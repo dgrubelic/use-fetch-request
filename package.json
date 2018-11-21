@@ -1,0 +1,19 @@
+{
+  "name": "use-fetch-request",
+  "version": "1.0.0",
+  "description": "React.js hook for dispatching network requests using Fetch API",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dgrubelic/use-fetch-request.git"
+  },
+  "author": "Davor Grubelic <davor.grubelic@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/dgrubelic/use-fetch-request/issues"
+  },
+  "homepage": "https://github.com/dgrubelic/use-fetch-request#readme"
+}
